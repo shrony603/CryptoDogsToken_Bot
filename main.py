@@ -39,7 +39,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def earn(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        f"🎯 Click here to earn tokens:
+        msg = f"""🎯 Click here to earn tokens:
+👉 https://otieu.com/4/9431817"""
+bot.send_message(chat_id, msg)
 {MONOTAG_AD_URL}
 
 " +
