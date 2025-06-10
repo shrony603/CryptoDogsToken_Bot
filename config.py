@@ -1,2 +1,0 @@
-BOT_TOKEN = "8199006545:AAHHmZD2Tj2TOTNj7Ig2flD9agm_5rMuqBk"
-MONOTAG_AD_URL = "https://otieu.com/4/9431817"
